@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBackgrounding.Android", "XamarinBackgrounding\XamarinBackgrounding.Android\XamarinBackgrounding.Android.csproj", "{65D043B3-8C13-408E-B7BE-323A8D476B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBackgrounding", "XamarinBackgrounding\XamarinBackgrounding\XamarinBackgrounding.csproj", "{45A055F2-3E43-40DA-A8ED-F56A45E06196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D043B3-8C13-408E-B7BE-323A8D476B5F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A055F2-3E43-40DA-A8ED-F56A45E06196}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D22AC0-B61C-4848-AE93-A758A8F87ACA}
+	EndGlobalSection
+EndGlobal
